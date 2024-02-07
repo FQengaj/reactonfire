@@ -9,17 +9,13 @@ import { Valentine } from './pages/valintine';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <BrowserRouter>
-          <Routes>
-            <Route path='/' exact element={<Valentine />}/>
-            {/* <Route path='/' exact element={<Auth />} />
-            <Route path='/user' exact element={<User />} /> */}
-          </Routes>
-        </BrowserRouter>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' exact element={<Valentine />}/>
+        {/* <Route path='/' exact element={<Auth />} />
+        <Route path='/user' exact element={<User />} /> */}
+      </Routes>
+    </BrowserRouter>
   );
 }
 

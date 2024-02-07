@@ -1,0 +1,19 @@
+/* .valentine-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */ 
+
+.valentine-body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.stepsContainer{
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
