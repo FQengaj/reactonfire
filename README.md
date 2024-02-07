@@ -5,7 +5,26 @@
  - `firebase login`
    - Login to firebase
  - `npm build`
-   - create a build version of the project
+   - Create a build version of the project
  - `firebase init`
    - for Hosting Choose `Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys`
    - Choose `Use an existing project`
+   - Choose the Project to deploy to
+   - Choose `public`
+   - Choose `No`
+   - Choose `Yes` if with GitHub actions are intended
+   - Choose `No`
+ - If GitHub Actions set to `yes`
+   - setup GitHub Repository:
+     - Create Repo
+     - `git Init`
+     - `git add .`
+     - `git commit -m "first commit"`
+     - `git branch -M main`
+     - `git remote add origin https://github.com/FQengaj/XXXXXXXXXXXXXXX.git`
+     - `git push -u origin main`
+   - Input `FQengaj/XXXXXXXXXXXXXXX`
+   - `No`
+   - `Yes`
+   - `main`
+ - `firebase deploy`
