@@ -5,7 +5,7 @@ import { useState } from "react";
 
 function importAll(r) {
     let images = {};
-    r.keys().map((item, index) => { images[item.replace('./', '')] = r(item); });
+    r.keys().map((item, index) => { images[item.replace('./', '')] = r(item);return ""});
     // r.keys().map((item, index) => { images[item] = r(item); });
     return images;
 }
@@ -40,8 +40,8 @@ export const Valentine = ()=>{
                             }
                         }
                         
-                    }}>YES!!!</button>
-                    <button id="btn-no" className="btn btn-xs">no</button>
+                    }}>{data[stage][step].posbtn}</button>
+                    {data[stage][step].negbtn !== "" ? <button id="btn-no" className="btn btn-xs">{data[stage][step].negbtn}</button>:""}
                 </div>
             </div>
         </div>
