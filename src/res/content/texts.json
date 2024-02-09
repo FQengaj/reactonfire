@@ -1,8 +1,45 @@
-{
-    "txts": [
-        "bin ich in productions?",
-        "1",
-        "2",
-        "3"
+[
+    [
+      {
+        "txt": "Hey Baby, frohen Valentinstag <3",
+        "ttxt": "Hey Pupsie",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "img":"IMG20210717141917.jpg"
+      }
+    ],
+    [
+      {
+        "txt": "Ich habe diese Website geamcht, um dich was ganz wichitges zu fragen...",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "img":"IMG-20210202-WA0044.jpg"
+      },
+      {
+        "txt": "... willst du mein Valentinsschatz sein?\n 🥺\n👉🏼👈🏼",
+        "badResp": true,
+        "posbtn": "YESSSS!!!",
+        "negbtn": "ne",
+        "img":"IMG-20210718-WA0035.jpg"
+      }
+    ],
+    [
+      {
+        "txt": "Step 1 of Stage 3",
+        "badResp": true,
+        "moreVal": ""
+      },
+      {
+        "txt": "Step 2 of Stage 3",
+        "badResp": true,
+        "moreVal": ""
+      },
+      {
+        "txt": "Step 3 of Stage 3",
+        "badResp": true,
+        "moreVal": ""
+      }
     ]
-}
+  ]
