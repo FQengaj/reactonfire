@@ -4,6 +4,10 @@
     justify-content: center;
 } */ 
 
+/* 
+    do a transition? 
+https://stackoverflow.com/questions/52507110/implementing-transition-effects-in-react-js-when-state-changes
+*/
 .valentine-body{
     position: absolute;
     top: 50%;

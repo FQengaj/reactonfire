@@ -1,0 +1,223 @@
+[
+    {
+        "ttxt": "ಥ_ಥ",
+        "txt": "but... why?",
+        "badResp": true,
+        "posbtn": "i'm sorry!!",
+        "negbtn": "bye bish",
+        "nextPos":{
+            "step":2,
+            "stage":0
+        },
+        "nextNeg":1,
+        "img":"HOPPLA.jpg"
+    },
+    {
+        "ttxt": "BRUHHHHH",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": ".",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 2,
+        "img":"Bruh_face.jpg"
+    },
+    {
+        "ttxt": "（︶^︶）",
+        "txt": "Ne jetzt will ich nicht mehr.",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": "¯\\_(ツ)_/¯",
+        "nextPos":{
+            "stage":0,
+            "step":2
+        },
+        "nextNeg": 3,
+        "img":""
+    },
+    {
+        "ttxt": "Guck WIE HOT WIR ZUSAMMEN SIND!",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": ":(",
+        "nextPos":{
+            "stage":0,
+            "step":2
+        },
+        "nextNeg": 4,
+        "img":"hot.jpg"
+    },
+    {
+        "ttxt": "Ok letzte chance",
+        "txt": "Willst du das?",
+        "badResp": true,
+        "posbtn": "Bring me back",
+        "negbtn": "naw fuck it",
+        "nextPos":{
+            "stage":0,
+            "step":11
+        },
+        "nextNeg": 5,
+        "img":"hot_2.jpg"
+    },
+    {
+        "ttxt": "BRUHHHHH",
+        "txt": "GAME OVER 😑",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": "",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 2,
+        "img":"Bruh_face.jpg"
+    },
+    {
+        "ttxt": "you da fake and de frod",
+        "txt": "look ich kann bilder machen...",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": "ist ja gut",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 4,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "und noch eins",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "stop",
+        "negbtn": "ne da sind keine",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 5,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "und noch eins",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "ist ja gut",
+        "negbtn": "nah ah",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 6,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "Ich kann den ganzen tag weiter machen",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Zurück",
+        "negbtn": "zeig",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 7,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "ANOTHERONE!",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Zurück",
+        "negbtn": "no",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 8,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "Das sind alles schöne erinnerungen...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "",
+        "negbtn": "hm?",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 9,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "...die schönsten Erinnerungen meines lebens.",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextPos":{
+            "step":0,
+            "stage":5
+        },
+        "nextNeg": 9,
+        "img":"tmp.jpg"
+    },
+    {
+        "ttxt": "Aawwww my gurl",
+        "txt": "Good Job on the answer du smartie 🥰",
+        "badResp": true,
+        "posbtn": "Go back",
+        "negbtn": "",
+        "nextPos":{
+            "step":1,
+            "stage":5
+        },
+        "nextNeg": 0,
+        "img":""
+    },
+    {
+        "ttxt": "Don't bruh me",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "LOL",
+        "negbtn": "bruh",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 12,
+        "img":""
+    },
+    {
+        "ttxt": "╰（‵□′）╯",
+        "txt": "Selber Bruh!",
+        "badResp": true,
+        "posbtn": "LOL",
+        "negbtn": "BRUH",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 12,
+        "img":""
+    },
+    {
+        "ttxt": "(╯‵□′)╯︵┻━┻",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Hehe",
+        "negbtn": "",
+        "nextPos":{
+            "step":0,
+            "stage":0
+        },
+        "nextNeg": 12,
+        "img":""
+    }
+]

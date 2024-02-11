@@ -1,45 +1,223 @@
 [
     [
       {
-        "txt": "Hey Baby, frohen Valentinstag <3",
-        "ttxt": "Hey Pupsie",
+        "ttxt": "Hey Pupsie! ❤️",
+        "txt": "Frohen Valentinstag!! 🥰",
         "badResp": true,
         "posbtn": "Weiter",
         "negbtn": "",
-        "img":"IMG20210717141917.jpg"
-      }
-    ],
-    [
-      {
-        "txt": "Ich habe diese Website geamcht, um dich was ganz wichitges zu fragen...",
-        "badResp": true,
-        "posbtn": "Weiter",
-        "negbtn": "",
-        "img":"IMG-20210202-WA0044.jpg"
+        "nextNeg":0,
+        "img":"surprise-surprise.gif"
       },
       {
-        "txt": "... willst du mein Valentinsschatz sein?\n 🥺\n👉🏼👈🏼",
+        "ttxt": "Ich hab das gemacht, um dir zu sagen, dass...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "img":"first_pic.jpg"
+      },
+      {
+        "ttxt": "Ich will dein Ritter sein will...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Mein ⚔️",
+        "negbtn": "",
+        "img":"ritter_2.jpg"
+      },
+      {
+        "ttxt": "Dein beschützer sein will...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Mein 🛡️",
+        "negbtn": "",
+        "img":"kiss_head.jpg"
+      },
+      {
+        "ttxt": "Dein Liebhaber sein will...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Mein ❤️",
+        "negbtn": "",
+        "img":"Kiss.jpg"
+      },
+      {
+        "ttxt": "Dein größter supporter sein will...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Mein 🫂",
+        "negbtn": "",
+        "img":"costume_evil.jpg"
+      },
+      {
+        "ttxt": "Mit dir möchte ich weired sein will...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Mein 🤪",
+        "negbtn": "",
+        "img":"chaos_couple.jpg"
+      },
+      {
+        "ttxt": "....",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "🤡🤡🤡",
+        "negbtn": "",
+        "img":"weired.jpg"
+      },
+      {
+        "ttxt": "Everday....",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "🤣🤣🤣",
+        "negbtn": "",
+        "img":"weired_2.jpg"
+      },
+      {
+        "ttxt": "weired....",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "🤣🤣🤣",
+        "negbtn": "",
+        "img":"tuetue.jpg"
+      },
+      {
+        "ttxt": "und deswegen will ich dich fragen...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "img":"cute_couple_2.jpg"
+      },
+      {
+        "ttxt": "... willst du mein Valentinsschatz sein?",
+        "txt": "🥺\n👉🏼👈🏼",
         "badResp": true,
         "posbtn": "YESSSS!!!",
         "negbtn": "ne",
-        "img":"IMG-20210718-WA0035.jpg"
+        "nextNeg":0,
+        "img":"smollboy.jpg"
       }
     ],
     [
       {
-        "txt": "Step 1 of Stage 3",
+        "ttxt": "╰(*°▽°*)╯",
+        "txt": "YEeAahhaHHAHAHSDL",
         "badResp": true,
-        "moreVal": ""
+        "posbtn": "❤️",
+        "negbtn": "",
+        "img":"kiss_head.jpg"
       },
       {
-        "txt": "Step 2 of Stage 3",
+        "ttxt": "MMUUUHHHHAAAA",
+        "txt": "💋💋💋💋",
         "badResp": true,
-        "moreVal": ""
+        "posbtn": "💋",
+        "negbtn": "",
+        "img":"Kiss.jpg"
       },
       {
-        "txt": "Step 3 of Stage 3",
+        "ttxt": "LOL",
+        "txt": "📷 SNAP going into my cringe collection hehe",
         "badResp": true,
-        "moreVal": ""
+        "posbtn": "Bruh",
+        "negbtn": "",
+        "nextNeg":3,
+        "img":"surprise-surprise.gif"
+      }
+    ],
+    [
+      {
+        "ttxt": "Ne aber wirklich, ",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "Ich liebe dich ❤️",
+        "txt": "Ich bin wirklich so froh dich in meinem leben zu haben!",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "Ich brauche eigenltich keinen grund,",
+        "txt": "aber ich wollte den anlass nutzen, um dir zusagen wie viel du mir bedeutest!",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "Und mit den Bildern im hintergrund,",
+        "txt": "an unsere schönen momente zu erinnern...",
+        "badResp": true,
+        "posbtn": "Weiter",
+        "negbtn": "",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "... sind da bilder zu sehen???!",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "yup",
+        "negbtn": "...nope",
+        "nextNeg":3,
+        "img":""
+      }
+    ],
+    [
+      {
+        "ttxt": "Suprise QUIZZ!!!",
+        "txt": "Wie viele Bit sind in einem KiloByte?",
+        "badResp": true,
+        "posbtn": "REEEE",
+        "negbtn": "8000",
+        "nextNeg":10,
+        "img":""
+      },
+      {
+        "ttxt": "Mir gehen die ideen aus...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Bruh",
+        "negbtn": "Bruh",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "Mir gehen die ideen aus...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Bruh",
+        "negbtn": "Bruh",
+        "nextNeg":3,
+        "img":""
+      },
+      {
+        "ttxt": "Mir gehen die ideen aus...",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Bruh",
+        "negbtn": "Bruh",
+        "nextNeg":11,
+        "img":""
+      },
+      {
+        "ttxt": "Ganz Wichitg..",
+        "txt": "pi pi po po pa pa cu cu",
+        "badResp": true,
+        "posbtn": "ca ca",
+        "negbtn": "",
+        "nextNeg":11,
+        "img":""
       }
     ]
   ]
