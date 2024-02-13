@@ -70,7 +70,7 @@ export const Valentine = ()=>{
         <ul className="steps">
             {
                 dataPos.map((value, currIndex)=>{
-                    if (currIndex < stage){
+                    if (currIndex <= stage){
                         return <li onClick={()=>{
                             setStage(currIndex)
                             setStep(0)

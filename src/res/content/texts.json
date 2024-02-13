@@ -31,7 +31,7 @@
         "badResp": true,
         "posbtn": "Mein 🛡️",
         "negbtn": "",
-        "img":"kiss_head.jpg"
+        "img":"carrie_her.jpg"
       },
       {
         "ttxt": "Dein Liebhaber sein will...",
@@ -117,8 +117,8 @@
         "img":"Kiss.jpg"
       },
       {
-        "ttxt": "LOL",
-        "txt": "📷 SNAP going into my cringe collection hehe",
+        "ttxt": "So what now?",
+        "txt": "",
         "badResp": true,
         "posbtn": "Bruh",
         "negbtn": "",
@@ -128,16 +128,16 @@
     ],
     [
       {
-        "ttxt": "Ne aber wirklich, ",
+        "ttxt": "pi pi pu pu",
         "txt": "",
         "badResp": true,
-        "posbtn": "Weiter",
+        "posbtn": "ti ti ca ca",
         "negbtn": "",
         "nextNeg":3,
         "img":""
       },
       {
-        "ttxt": "Ich liebe dich ❤️",
+        "ttxt": "Aber ne ehrlich,",
         "txt": "Ich bin wirklich so froh dich in meinem leben zu haben!",
         "badResp": true,
         "posbtn": "Weiter",
@@ -146,29 +146,11 @@
         "img":""
       },
       {
-        "ttxt": "Ich brauche eigenltich keinen grund,",
-        "txt": "aber ich wollte den anlass nutzen, um dir zusagen wie viel du mir bedeutest!",
-        "badResp": true,
-        "posbtn": "Weiter",
-        "negbtn": "",
-        "nextNeg":3,
-        "img":""
-      },
-      {
-        "ttxt": "Und mit den Bildern im hintergrund,",
-        "txt": "an unsere schönen momente zu erinnern...",
-        "badResp": true,
-        "posbtn": "Weiter",
-        "negbtn": "",
-        "nextNeg":3,
-        "img":""
-      },
-      {
-        "ttxt": "... sind da bilder zu sehen???!",
+        "ttxt": "Ich liebe dich ❤️",
         "txt": "",
         "badResp": true,
-        "posbtn": "yup",
-        "negbtn": "...nope",
+        "posbtn": "❤️",
+        "negbtn": "",
         "nextNeg":3,
         "img":""
       }
@@ -176,45 +158,101 @@
     [
       {
         "ttxt": "Suprise QUIZZ!!!",
-        "txt": "Wie viele Bit sind in einem KiloByte?",
+        "txt": "Wie ist die Mitternachts formel!?",
         "badResp": true,
         "posbtn": "REEEE",
-        "negbtn": "8000",
-        "nextNeg":10,
-        "img":""
+        "negbtn": "Ez Pz",
+        "nextNeg":6,
+        "img":"dog_maphs.gif"
       },
       {
-        "ttxt": "Mir gehen die ideen aus...",
+        "ttxt": "Lol ich will einfach nur ein paar coole Bilder zeigen❤️",
         "txt": "",
         "badResp": true,
-        "posbtn": "Bruh",
-        "negbtn": "Bruh",
+        "posbtn": "🥰",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"cute_couple.jpg"
+      },
+      {
+        "ttxt": "Es gibt so viele schöne Bilder von uns",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"kiss_building.jpg"
+      },
+      {
+        "ttxt": "❤️📷❤️📷❤️📷",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"Cosplay_PB_fin.jpg"
+      },
+      {
+        "ttxt": "So viele Momente die mein Herz erwärmen!",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"couch_chillin.jpg"
+      },
+      {
+        "ttxt": "Woopsi",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"ass_pic.jpg"
+      },
+      {
+        "ttxt": "YOU THIRSTYYY!!! 🤣",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "❤️",
+        "negbtn": "",
+        "nextNeg":6,
+        "img":"Woopsi_2.jpg"
+      }
+    ],
+    [
+      {
+        "ttxt": "Nein aber Spaß bei seite, ich freu mich auf Samstag.",
+        "txt": "",
+        "badResp": true,
+        "posbtn": "Endlich Wiedersehen",
+        "negbtn": "",
         "nextNeg":3,
         "img":""
       },
       {
-        "ttxt": "Mir gehen die ideen aus...",
+        "ttxt": "Mit dir Zeit zu verbringen ist das schönste! ❤️",
         "txt": "",
         "badResp": true,
-        "posbtn": "Bruh",
-        "negbtn": "Bruh",
+        "posbtn": "Ja",
+        "negbtn": "",
         "nextNeg":3,
         "img":""
       },
       {
-        "ttxt": "Mir gehen die ideen aus...",
+        "ttxt": "Bis dann mein Valentinsschatz 🥰",
         "txt": "",
         "badResp": true,
-        "posbtn": "Bruh",
-        "negbtn": "Bruh",
+        "posbtn": "❤️",
+        "negbtn": "",
         "nextNeg":11,
         "img":""
       },
       {
-        "ttxt": "Ganz Wichitg..",
+        "ttxt": "Ich liebe dich ❤️",
         "txt": "pi pi po po pa pa cu cu",
         "badResp": true,
-        "posbtn": "ca ca",
+        "posbtn": "AGAIN!",
         "negbtn": "",
         "nextNeg":11,
         "img":""

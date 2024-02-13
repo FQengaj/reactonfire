@@ -6,8 +6,8 @@
         "posbtn": "i'm sorry!!",
         "negbtn": "bye bish",
         "nextPos":{
-            "step":2,
-            "stage":0
+            "stage":0,
+            "step":11
         },
         "nextNeg":1,
         "img":"HOPPLA.jpg"
@@ -78,24 +78,24 @@
         "img":"Bruh_face.jpg"
     },
     {
-        "ttxt": "you da fake and de frod",
-        "txt": "look ich kann bilder machen...",
+        "ttxt": "Deeaaamann Da maphs GUURRLL",
+        "txt": "",
         "badResp": true,
-        "posbtn": "",
-        "negbtn": "ist ja gut",
+        "posbtn": "LOL",
+        "negbtn": "",
         "nextPos":{
             "step":0,
             "stage":0
         },
-        "nextNeg": 4,
-        "img":"tmp.jpg"
+        "nextNeg": 7,
+        "img":"Woopsi.jpg"
     },
     {
-        "ttxt": "und noch eins",
+        "ttxt": "",
         "txt": "",
         "badResp": true,
-        "posbtn": "stop",
-        "negbtn": "ne da sind keine",
+        "posbtn": "WTF",
+        "negbtn": "no",
         "nextPos":{
             "step":0,
             "stage":0
