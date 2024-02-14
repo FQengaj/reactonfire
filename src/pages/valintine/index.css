@@ -2,20 +2,20 @@
     display: flex;
     align-items: center;
     justify-content: center;
-} */ 
+} */
 
 /* 
     do a transition? 
 https://stackoverflow.com/questions/52507110/implementing-transition-effects-in-react-js-when-state-changes
 */
-.valentine-body{
+.valentine-body {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.stepsContainer{
+.stepsContainer {
     position: fixed;
     bottom: 0px;
     left: 50%;

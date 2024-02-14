@@ -228,7 +228,7 @@
         "posbtn": "Endlich Wiedersehen",
         "negbtn": "",
         "nextNeg":3,
-        "img":""
+        "img":"landscape.jpg"
       },
       {
         "ttxt": "Mit dir Zeit zu verbringen ist das schönste! ❤️",
@@ -237,7 +237,7 @@
         "posbtn": "Ja",
         "negbtn": "",
         "nextNeg":3,
-        "img":""
+        "img":"cute_funny.jpg"
       },
       {
         "ttxt": "Bis dann mein Valentinsschatz 🥰",
@@ -246,7 +246,7 @@
         "posbtn": "❤️",
         "negbtn": "",
         "nextNeg":11,
-        "img":""
+        "img":"love_hearts.gif"
       },
       {
         "ttxt": "Ich liebe dich ❤️",

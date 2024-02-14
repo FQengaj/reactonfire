@@ -26,7 +26,7 @@ export const Valentine = ()=>{
     <div data-theme="valentinstag" className="valentine-body" >
     <div className="card w-80 h-auto mt-10 mb-16 bg-base-100 shadow-2xl ">
         <figure><img style={{aspectRatio: 3/4, objectFit:"cover" }} alt="" src={(currObj.img)? images[currObj.img] :""} /></figure>
-        <div className="card-body">
+        <div className="card-body ">
             <h2 className="card-title">{currObj.ttxt ? currObj.ttxt : "no title yet"}</h2>
             <p>{currObj.txt}</p>
 
